@@ -1,2 +1,5 @@
-aiohttp==3.5.4
-gunicorn==19.9.0 
+aiohttp
+gunicorn 
+aiohttp-cors
+aioelasticsearch
+schematics
